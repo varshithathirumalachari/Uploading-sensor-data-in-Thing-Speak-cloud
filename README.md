@@ -116,9 +116,9 @@ void loop()
 }
 ```
 # CIRCUIT DIAGRAM:
-
+![y](https://user-images.githubusercontent.com/113031811/235657210-21d58166-5c80-4595-8342-603811191bf0.png)
 # OUTPUT:
-
+![r](https://user-images.githubusercontent.com/113031811/235657271-c67d77e0-ae33-426c-a3d2-cadcf549c9bc.png)
 # RESULT:
 Thus the distance of the obstacle was monitored using Ultrasonic sensor and the distance values are uploaded in the Thing speak using ESP32 controller.
 
